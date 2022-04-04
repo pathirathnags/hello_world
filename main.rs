@@ -5,6 +5,9 @@ use std::env;
 
 	Prints hello world in whatever color
 	the user inputs!
+	
+	(all the colors in Rust minus black
+		and white)
 
 */
 fn main()
